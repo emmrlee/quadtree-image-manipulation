@@ -1,3 +1,4 @@
+Spring 2023 - CS151
 Names: Emma Lee and Rachel Nguyen
 How to compile:
 How to run it: Use the command java Main with additional flags listed below
